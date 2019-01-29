@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages - KSP with Midnight theme
+## Welcome to GitHub Pages - KSP with Tactile theme
 
 You can use the [editor on GitHub](https://github.com/ksperrin/ksperrin.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
